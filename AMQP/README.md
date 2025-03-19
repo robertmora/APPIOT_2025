@@ -1,4 +1,4 @@
-# APPIOT2024 Lab 3: Exploring AMQP
+# APPIOT2025 Exploring AMQP
 
 This repository contains example scripts for the Advanced Message Queuing Protocol (AMQP) lab session part of the APPIOT2024 course. These scripts are designed to help students gain practical experience with AMQP through hands-on exercises.
 
