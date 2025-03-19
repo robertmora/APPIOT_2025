@@ -1,4 +1,4 @@
-# APPIOT2025 Exploring XMPP
+# APPIOT 2025 Exploring XMPP
 
 This repository houses example scripts for the Extensible Messaging and Presence Protocol (XMPP) lab session in the APPIOT2024 course. These examples are intended to provide students with a hands-on approach to understanding XMPP.
 
