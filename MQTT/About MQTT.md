@@ -1,4 +1,4 @@
-# MQTT Publisher and Subscriber Examples
+# APPIOT2025 Exploring MQTT
 
 This repository contains two Python scripts demonstrating the basic functionalities of MQTT protocol: a publisher (`publisher.py`) and a subscriber (`subscriber.py`). These scripts are designed as simple examples to help understand how MQTT communication works in the context of IoT applications.
 
